@@ -1,4 +1,4 @@
 {
-  "api_key": "AIzaSyBk8t8fZ7_r5Hp6HewnS6Xzfb2I4zIGGNA",
+  "api_key":  "${GEMINI_API_KEY}"
   "model": "models/gemini-2.5-flash"
 }
